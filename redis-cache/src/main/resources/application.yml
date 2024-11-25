@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: spring-boot-cache-strategies
+  cache:
+    redis:
+      cache-null-values: false
+  jpa:
+    show-sql: true
