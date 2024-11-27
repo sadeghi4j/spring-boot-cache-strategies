@@ -13,6 +13,7 @@
     <modules>
         <module>simple-in-memory-cache</module>
         <module>redis-cache</module>
+        <module>distributed-in-memory-cache</module>
     </modules>
 
     <properties>
