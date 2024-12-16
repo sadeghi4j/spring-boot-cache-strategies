@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: in-memory-cache-with-redis-fallback
+  jpa:
+    show-sql: true
+logging:
+  file:
+    name: log.json
+  structured:
+    format:
+      file: ecs
